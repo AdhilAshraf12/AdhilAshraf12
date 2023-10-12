@@ -27,7 +27,7 @@ I'm Adhil, a passionate software developer from Calgary,AB. Welcome to my GitHub
 
 ## Let's Connect!
 
-- 💼 LinkedIn: [Your LinkedIn Profile](Link to LinkedIn)
+- 💼 LinkedIn: https://www.linkedin.com/in/adhil-ashraf-319a99239/
 - 🌐 Website: [Your Website/Blog](Link to Website)
 
 Feel free to explore my repositories and projects. If you find something interesting or if you have any questions, don't hesitate to reach out. Happy coding! 🚀
