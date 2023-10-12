@@ -5,11 +5,11 @@ I'm Adhil, a passionate software developer from Calgary,AB. Welcome to my GitHub
 ## About Me
 
 - 🌱 I’m currently experienced in and learning C/C++/Java/Python/MySQL.
-- 💼 I'm working as a [Your Job Title] at [Your Company].
+- 💼 Currently studying software engineering at University Of Calgary.
 - 🔭 I'm currently working on [Project you are currently focusing on].
-- 📚 I'm interested in [Your Interests, e.g., Web Development, Machine Learning].
-- 💬 Ask me about anything related to [Your Skills, e.g., JavaScript, Python, Data Structures].
-- 😄 Pronouns: [Your Pronouns, e.g., He/Him].
+- 📚 I'm interested in Web Development, Data Handling, UI/UX designing, etc.
+- 💬 Ask me about anything related to JavaScript, Python, C, C++.
+- 😄 Pronouns: He/Him.
 
 ## My Tech Stack
 
