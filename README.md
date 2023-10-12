@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Adhil, a passionate software developer from Calgary,AB. Welcome to my GitHub profile! Here you'll find a collection of my projects, ranging from coding exercises to full-fledged applications.
+I'm Adhil, a passionate software developer from Calgary, AB. Welcome to my GitHub profile! Here you'll find a collection of my projects, ranging from coding exercises to full-fledged applications.
 
 ## About Me
 
