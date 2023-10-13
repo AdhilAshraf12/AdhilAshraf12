@@ -27,7 +27,7 @@ I'm Adhil, a passionate software developer from Calgary, AB. Welcome to my GitHu
 
 ## Let's Connect!
 
-- 💼 LinkedIn: https://www.linkedin.com/in/adhil-ashraf-319a99239/
+- 💼 LinkedIn: [Adhil Ashraf] (https://www.linkedin.com/in/adhil-ashraf-319a99239/)
 - 🌐 Website: [Work In Progress](Working On It)
 - 💬 Email: adhil.ashraf@ucalgary.ca
 
