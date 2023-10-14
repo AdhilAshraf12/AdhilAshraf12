@@ -19,11 +19,6 @@ I'm Adhil, a passionate software developer from Calgary, AB. Welcome to my GitHu
 - **Tools:** Git, VS Code, Notepad++.
 - **Other:** AWS, Netlify.
 
-## My Projects
-
-- 🚀 [Project Name](Link to Project) - Brief description of the project.
-- 🌐 [Another Project](Link to Project) - Brief description of the project.
-- 🔍 [Explore More Projects on my Portfolio](Link to Portfolio)
 
 ## Let's Connect!
 
