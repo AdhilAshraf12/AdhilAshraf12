@@ -6,7 +6,7 @@ I'm Adhil, a passionate software developer from Calgary, AB. Welcome to my GitHu
 
 - 🌱 I’m currently experienced in and learning C/C++/Java/Python/MySQL.
 - 💼 Currently studying software engineering at University Of Calgary.
-- 🔭 I'm currently working on [Python Projects].
+- 🔭 I'm currently working on Python Projects.
 - 📚 I'm interested in Web Development, Data Handling, UI/UX designing, etc.
 - 💬 Ask me about anything related to JavaScript, Python, C, C++. (And I might answer your question, I might not. lmao)
 - 😄 Pronouns: He/Him.
